@@ -1,1 +1,1 @@
-# ANALYSIS-OF-BITCOIN-PRICE-PREDICTION
+Conducted an analysis of Bitcoin price dynamics using historical price data and technical indicators. Evaluated the performance of machine learning models, including Linear Regression, Support Vector Machines (SVM), and Random Forest Regression, for predictive modeling. This involved data preprocessing, feature engineering, visualization, and model training and evaluation to predict Bitcoin's next-day closing price.
